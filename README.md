@@ -65,7 +65,7 @@ I use AI as a development accelerator  while owning system design, technical dec
 
 | | |
 |---|---|
-| 📧 Email | `brezdenvalentin70@email.com` |
+| 📧 Email | `brezdenvalentin70@gmail.com` |
 | 💼 LinkedIn | [linkedin.com/in/valentynbd](https://linkedin.com/in/valentynbd/) |
 | 🐙 GitHub | [github.com/sosadly](https://github.com/sosadly) |
 
